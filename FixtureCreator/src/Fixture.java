@@ -53,6 +53,7 @@ public class Fixture {
                 }
             }
             fixtures.add(roundFixtures.toString());
+
         }
         return this.fixtures;
 

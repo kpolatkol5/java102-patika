@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvantureGame/AdvantureGame.iml" filepath="$PROJECT_DIR$/AdvantureGame/AdvantureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookSorter/BookSorter.iml" filepath="$PROJECT_DIR$/BookSorter/BookSorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomList/CustomList.iml" filepath="$PROJECT_DIR$/CustomList/CustomList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FixtureCreator/FixtureCreator.iml" filepath="$PROJECT_DIR$/FixtureCreator/FixtureCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java102-patika.iml" filepath="$PROJECT_DIR$/.idea/Java102-patika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaStore/PatikaStore.iml" filepath="$PROJECT_DIR$/PatikaStore/PatikaStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkerClass/WorkerClass.iml" filepath="$PROJECT_DIR$/WorkerClass/WorkerClass.iml" />
+    </modules>
+  </component>
+</project>
